@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap');
+.header{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #dddee2ec;
+    color: #343a44;
+    line-height: 2.4em;
+    font-size: 1.6em;
+}
+
+  .header p {
+      margin: 0 40px
+  }
